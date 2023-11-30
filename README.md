@@ -5,3 +5,6 @@
 
 ## My GitHub Stats
 # [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amokdev&count_private=true)](https://github.com/AmokDev)
+
+### Discord
+# [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)](https://discord.gg/gsRy33bWfR)
