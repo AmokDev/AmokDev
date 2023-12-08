@@ -4,8 +4,11 @@
 👀 I also do a little bit of reverse engineering of Android applications using [Frida](https://frida.re).
 
 ## My GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amokdev&count_private=true)](https://github.com/AmokDev) 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmokDev&langs_count=3&theme=dracula)](https://github.com/AmokDev)
+
+<div>
+  <img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=amokdev&count_private=true&theme=github_dark&show_icons=true"/>
+  <img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmokDev&langs_count=3&theme=github_dark"/>
+</div>
 
 ### Discord
 # [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)](https://discord.gg/gsRy33bWfR)
