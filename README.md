@@ -6,8 +6,8 @@
 ## My GitHub Stats
 
 <div>
-  <img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=amokdev&count_private=true&theme=github_dark&show_icons=true"/>
-  <img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmokDev&langs_count=3&theme=github_dark"/>
+  <a href="https://github.com/AmokDev"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=amokdev&count_private=true&theme=github_dark&show_icons=true"/></a>
+  <a href="https://github.com/AmokDev"><img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmokDev&langs_count=3&theme=github_dark"/></a>
 </div>
 
 ### Discord
