@@ -1,5 +1,5 @@
 # About me
-🥰 Hello! I am Amok. I love coding in [Python](https://www.python.org/) and [Java](https://java.com) programming languages.
+🥰 Hello! I am Amok. I love coding in [Python](https://www.python.org/) and [Java](https://java.com) programming languages. I'm also learning [Rust](https://rust-lang.org/)!
 
 👀 I also do a little bit of reverse engineering of Android applications using [Frida](https://frida.re).
 
