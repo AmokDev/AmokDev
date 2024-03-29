@@ -11,4 +11,4 @@
 </div>
 
 ### Discord
-# [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)](https://discord.gg/gsRy33bWfR)
+# [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)]([https://discord.gg/gsRy33bWfR](https://discord.gg/srseydUdfA))
