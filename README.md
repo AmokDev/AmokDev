@@ -1,3 +1,10 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 # About me
 🥰 Hello! I am Amok. I love coding in [Python](https://www.python.org/) and [Java](https://java.com) programming languages. I'm also learning [Rust](https://rust-lang.org/)!
 
@@ -13,3 +20,5 @@
 
 ### Discord
 # [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)](https://discord.gg/srseydUdfA)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
