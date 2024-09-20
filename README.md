@@ -19,6 +19,6 @@
 <a href="https://github.com/AmokDev"><img align="center" src="https://profile-counter.glitch.me/amokdev/count.svg"/></p></a>
 
 ### Discord
-# [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)](https://discord.gg/srseydUdfA)
+# [![Kek](https://discord-readme-badge.vercel.app/api?id=219774026237607936)](https://github.com/AmokDev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
