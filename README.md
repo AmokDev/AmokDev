@@ -12,9 +12,9 @@
         <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=About&amp;fontSize=32" style="max-width: 100%;">
     </a>
 </div>
-🥰 Hello! I am Amok. I love coding in [Python](https://www.python.org/) and [Java](https://java.com) programming languages. I'm also learning [Rust](https://rust-lang.org/)!
+🥰 Hello! I am Amok. I love coding in <a href="https://www.python.org/">Python</a> and <a href="https://java.com">Java</a> programming languages. I'm also learning <a href="https://rust-lang.org/">Rust</a> !
 
-👀 I also do a little bit of reverse engineering of Android applications using [Frida](https://frida.re).
+👀 I also do a little bit of reverse engineering of Android applications using <a href="https://frida.re">Frida</a>.
 
 
 <div align="center">
