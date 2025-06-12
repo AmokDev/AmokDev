@@ -12,7 +12,7 @@
         <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=About&amp;fontSize=32" style="max-width: 100%;">
     </a>
 </div>
-🥰 Hello! I am Amok. I love coding in <a href="https://www.python.org/">Python</a> and <a href="https://java.com">Java</a> programming languages. I'm also learning <a href="https://rust-lang.org/">Rust</a> !
+🥰 Hello! I am AmokDev. I love coding in <a href="https://www.python.org/">Python</a> and <a href="https://rust-lang.org/">Rust</a>!
 
 👀 I also do a little bit of reverse engineering of Android applications using <a href="https://frida.re">Frida</a>.
 
