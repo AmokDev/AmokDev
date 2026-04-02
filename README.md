@@ -16,7 +16,7 @@
 
 🥰 Hello! I am AmokDev. I love coding in <a href="https://www.python.org/">Python</a> and <a href="https://rust-lang.org/">Rust</a>!
 
-👀 I also do a little bit of reverse engineering of Android applications using <a href="https://frida.re">Frida</a>.
+👀 I also do a little bit of reverse engineering of (any OS) applications using <a href="https://frida.re">Frida</a>.
 
 </div>
 
