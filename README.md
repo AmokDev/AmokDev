@@ -12,23 +12,12 @@
         <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=About&amp;fontSize=32" style="max-width: 100%;">
     </a>
 </div>
+<div align="center">
+
 🥰 Hello! I am AmokDev. I love coding in <a href="https://www.python.org/">Python</a> and <a href="https://rust-lang.org/">Rust</a>!
 
 👀 I also do a little bit of reverse engineering of Android applications using <a href="https://frida.re">Frida</a>.
 
-
-<div align="center">
-    <a href="https://github.com/AmokDev">
-        <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=My%20GitHub%20Stats&amp;fontSize=32" style="max-width: 100%;">
-    </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/AmokDev"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=amokdev&count_private=true&theme=github_dark&show_icons=true"/></a>
-  <a href="https://github.com/AmokDev"><img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmokDev&langs_count=3&theme=github_dark"/></a>
-</div>
-<div align="center">
-    <a href="https://github.com/AmokDev"><img align="center" src="https://profile-counter.glitch.me/amokdev/count.svg"/></p></a>
 </div>
 
 <div align="center">
