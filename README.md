@@ -26,7 +26,7 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/AmokDev">
+    <a href="https://discordapp.com/users/219774026237607936">
       <img align="center" src="https://discord-readme-badge.vercel.app/api?id=219774026237607936" style="max-width: 100%;">
     </a>  
 </div>
